@@ -65,7 +65,7 @@ A Python data analytics workflow simulating SIEM ingestion pipelines.
 Deep-dive architectural breakdowns and engineering post-mortems published on Medium:
 
 * **[Building a Custom File Integrity Monitoring (FIM) Agent for Linux: ShadowWatch v1.0](https://medium.com/@muhammedemirtohumcu/building-a-custom-file-integrity-monitoring-fim-agent-for-linux-shadowwatch-v1-0-aca78a4db6b9)** — An in-depth engineering review covering cryptographic validation, OOM prevention, and the cost of alert fatigue.
-* **[Automating Linux Telemetry: System Reconnaissance Tool](RECON_ARACININ_MEDIUM_LINKINI_BURAYA_YAPIŞTIR)** — A technical breakdown of automating Linux telemetry gathering and system auditing workflows using Python.
+* **[Can a Network Error Crash Your Script? Reconnaissance and Fault Tolerance Management with Python](https://medium.com/@muhammedemirtohumcu/can-a-network-error-crash-your-script-reconnaissance-and-fault-tolerance-management-with-python-7b18ba9a454e)** — A technical breakdown of automating Linux telemetry gathering, network error handling, and implementing fault tolerance mechanisms using Python.
 * **[Building a Security Log Analyzer with Python: From Raw Logs to Visual Analytics](https://medium.com/@muhammedemirtohumcu/building-a-security-log-analyzer-with-python-from-raw-logs-to-visual-analytics-9b28c6593c89)** — A comprehensive step-by-step walkthrough of building Python-driven SIEM analytics pipelines.
 
 ---
